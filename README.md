@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RIVAYYO</h1>
 <h3 align="center">A passionate frontend& backend from Indonesia</h3>
-<img align="right" alt="coding" width="400 src=https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=360&t=st=1673941680~exp=1673942280~hmac=6428339453dd71e3b7cc2b82303389871118a2a056551bc5e4ff64a0e700151c
+<img align="right" alt="coding" width="400 src=https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=360&t=st=1673941680~exp=1673942280~hmac=6428339453dd71e3b7cc2b82303389871118a2a056551bc5e4ff64a0e700151c">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rivayyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rivayyo" height="30" width="40" /></a>
